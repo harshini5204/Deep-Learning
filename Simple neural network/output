@@ -1,0 +1,13 @@
+Random Generated Weights: 
+[[-0.16595599]
+ [ 0.44064899]
+ [-0.99977125]]
+synaptic weights after training:
+[[12.70627854]
+ [-0.20392447]
+ [-6.14946022]]
+outputs after training:
+[[0.00213009]
+ [0.99826132]
+ [0.99858161]
+ [0.00173782]]
