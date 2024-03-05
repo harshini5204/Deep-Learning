@@ -1,0 +1,14 @@
+enter the epochs:2
+enter the weights for bias:-0.5
+enter the weights for x1:0.2
+enter the weights for x2:0.3
+--------------------------
+updated weights after 2 input instance
+x1 weight 0.2
+x2 weight 0.7
+bias weight -0.09999999999999998
+--------------------------
+final weights after 2 epochs(s)
+updated weight for x1: 0.2
+updated weight for x2: 0.7
+updated weight for bias: -0.09999999999999998
